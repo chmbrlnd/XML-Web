@@ -1,0 +1,41 @@
+html {
+	background: white;
+	color: black;
+	font-family: "Lucida Grande", Verdana, Lucida, Helvetica, Arial, sans-serif;
+	font-size: 0.90em;
+	line-height: 1.25em;
+}
+
+body {
+	position: relative;
+	margin: 20;
+	padding: 1;
+	border: 10;
+}
+
+/* order: link-visited-focus-hover-active */
+a:link { color: maroon; }
+a:hover { color: blue }
+a:active { color: navy }
+
+h1, h2, h3, h4, h5, h6
+{
+	margin: 1.5em 0 0 0;
+	padding: 2px 0px;
+	line-height: 1.25em;
+	background-color: white;
+	color: rgb(0,51,102);
+}
+
+table {	display: table;
+	padding-top: 16px;
+	padding-bottom: 16px; }
+tr { display: table-row; }
+thead { display: table-header-group; }
+tbody { display: table-row-group; }
+tfoot { display: table-footer-group; }
+td, th { display: table-cell; }
+caption { display: table-caption; }
+td { padding-left: 8px; padding-right: 8px; }
+
+

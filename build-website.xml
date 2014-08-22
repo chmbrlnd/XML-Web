@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<project name="docbook-src" default="build">
+
+	<description>
+		This Ant build file is used to transform DocBook XML into html
+    </description>
+
+	<!-- Configure basic properties -->
+	<property name="docbook.xsl.dir" value="docbook-xsl" />
+	<property name="htmloutput" value="output" />
+	<property name="xmlsource" value="source" />
+	<property name="resources" value="resources" />
+	<property name="html.stylesheet" value="${docbook.xsl.dir}/html/chunk.xsl" />
+
+	<!-- Making xalan available -->
+	<path id="xalan.class.path">
+		<pathelement location="lib/xalan/serializer.jar" />
+		<pathelement location="lib/xalan/xalan.jar" />
+		<pathelement location="lib/xalan/xercesImpl.jar" />
+		<pathelement location="lib/xalan/xml-apis.jar" />
+	</path>
+
+
+	<!-- target: usage -->
+	<target name="usage" description="Prints the Ant build.xml usage">
+		<echo message="Use -projecthelp to get a list of the available targets." />
+	</target>
+
+	<!-- target: clean -->
+	<target name="clean" description="Cleans up generated files.">
+		<delete dir="${htmloutput}" />
+	</target>
+
+	<!-- target: depends -->
+	<target name="depends">
+		<mkdir dir="${htmloutput}" />
+	</target>
+
+	<!-- target: build -->
+	<target name="build" depends="depends" description="Generates HTML files from DocBook XML">
+		<xslt style="${html.stylesheet}" extension=".html" basedir="${xmlsource}" destdir="${htmloutput}">
+			<include name="content.xml" />
+			<param name="root.filename" expression="Site" />
+			<param name="generate.toc" expression="book toc" />
+			<param name="toc.max.depth" expression="3" />
+			<param name="chunk.section.depth" expression="1" />
+			<param name="use.id.as.filename" expression="1" />
+			<param name="suppress.navigation" expression="1" />
+			<param name="html.stylesheet" expression="style.css" />
+			<param name="html.cleanup" expression="1" />
+			<param name="make.valid.html" expression="1" />
+			<classpath refid="xalan.class.path" />
+		</xslt>
+
+		<!-- Copy stylesheet and files to the same directory as HTML files -->
+		<copy todir="${htmloutput}">
+			<fileset dir="${resources}">
+				<include name="style.css" />
+				<include name="photo.jpg" />
+			</fileset>
+		</copy>
+
+	</target>
+
+</project>

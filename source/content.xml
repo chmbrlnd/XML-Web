@@ -1,0 +1,802 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "../docbook-xml-4.5/docbookx.dtd">
+
+<article id="index">
+	<title>Prof. Jean-Francois Chamberland-Tremblay</title>
+	<articleinfo>
+		<author>
+			<firstname>Jean-Francois</firstname>
+			<surname>Chamberland-Tremblay</surname>
+			<affiliation>
+				<jobtitle>Associate Professor</jobtitle>
+				<orgname>Texas A&amp;M University</orgname>
+			</affiliation>
+		</author>
+	</articleinfo>
+
+	<para>
+		<mediaobject>
+			<imageobject>
+				<imagedata fileref="photo.jpg" contentwidth="150px" format="JPG" />
+			</imageobject>
+			<textobject>
+				<phrase>J.-F. Chamberland</phrase>
+			</textobject>
+		</mediaobject>
+	</para>
+	
+	<sect1>
+		<title>Welcome!</title>
+		<para>
+			I am an Associate Professor in the Department of Electrical and Computer Engineering at
+			<ulink url="http://www.tamu.edu/">Texas A&amp;M University</ulink>
+			.
+			I was born and raised in Quebec City, Canada.
+			I completed a Bachelor of Engineering degree at
+			<ulink url="http://www.mcgill.ca">McGill University</ulink>
+			and a Master of Science degree at
+			<ulink url="http://www.cornell.edu/">Cornell University</ulink>
+			.
+			I received a Doctor of Philosophy degree from the
+			<ulink url="http://www.illinois.edu">University of Illinois</ulink>
+			at Urbana-Champaign in Electrical Engineering.
+		</para>
+		<para>
+			My research interests are in the areas of communication and information theory, decision and control, computer systems and networks, statistical inference, learning, and applied probability.
+			Recently, I have been studying the efficient design of sensor networks from a system-theoretic perspective and the fundamental limits of wireless communication systems under stringent delay constraints.
+			My academic work has appeared in a variety of outlets, including the IEEE Transactions on
+			Information Theory, the IEEE Transactions on Signal Processing, the IEEE Journal of Selected Areas in Communications, and the IEEE Transactions on Wireless Communications.
+		</para>
+		<sect2>
+			<title>Pertinent Links</title>
+			<itemizedlist>
+				<listitem>
+					<simpara>
+						<link linkend="Students" endterm="Students.title" />
+					</simpara>
+				</listitem>
+				<listitem>
+					<simpara>
+						<link linkend="Initiatives" endterm="Initiatives.title" />
+					</simpara>
+				</listitem>
+				<listitem>
+					<simpara>
+						<link linkend="Publications" endterm="Publications.title" />
+					</simpara>
+				</listitem>
+				<listitem>
+					<simpara>
+						<link linkend="Site" endterm="Site.title" />
+					</simpara>
+				</listitem>
+			</itemizedlist>
+		</sect2>
+		<sect2>
+			<title>Contact Information</title>
+			<para>
+				My office is located in the Wisenbaker Engineering Research Center (WERC).
+				The
+				<ulink url="http://aggiemap.tamu.edu/?Bldg=0682">Interactive Campus Map</ulink>
+				for Texas A&amp;M University shows where buildings are located in regard to a map.
+			</para>
+			<itemizedlist>
+				<listitem>
+					<simpara>Office: WERC 301RA</simpara>
+				</listitem>
+				<listitem>
+					<simpara>Phone: (979) 845-6204</simpara>
+				</listitem>
+				<listitem>
+					<simpara>Fax: (979) 862-4630</simpara>
+				</listitem>
+			</itemizedlist>
+		</sect2>
+		<sect2>
+			<title>Note to Prospective Students</title>
+			<para>
+				Texas A&amp;M University provides a great environment for students in Electrical and Computer Engineering.
+				It has a strong academic program and very interesting research.
+				While I encourage interested students to apply, you should know that I cannot help you get admitted or comment on your chances of being offered admission.
+				Furthermore, I do not typically commit to students without having worked with them at Texas A&amp;M University.
+				I wish I had time to respond to every student that sends me an email, but unfortunately I don't.
+				Finally, I do not offer summer internships to international students.
+			</para>
+		</sect2>
+	</sect1>
+
+	<sect1 id="Students">
+		<title id="Students.title">Students and Alumni</title>
+		<sect2>
+			<title>Ph.D. Candidate(s)</title>
+			<itemizedlist>
+				<listitem>
+					<simpara>Santhosh Kumar Vanaparthy</simpara>
+				</listitem>
+			</itemizedlist>
+		</sect2>
+		<sect2>
+			<title>M.S. Student(s)</title>
+			<itemizedlist>
+				<listitem>
+					<simpara>Siddharth Agarwal</simpara>
+				</listitem>
+				<listitem>
+					<simpara>Alexandru Raducanu</simpara>
+				</listitem>
+			</itemizedlist>
+		</sect2>
+		<sect2>
+			<title>Alumni</title>
+			<itemizedlist>
+				<listitem>
+					<simpara>Fatemeh Hamidi Sepehr, Ph.D.; Performance Analysis of Block Codes over Finite-State Channels in Delay-Sensitive Communications; May 2014</simpara>
+				</listitem>
+				<listitem>
+					<simpara>Parimal Parag, Ph.D.; Delay-Sensitive Communications: Fundamental Limits, Strategies, and Distributed Control; December 2011</simpara>
+				</listitem>
+				<listitem>
+					<simpara>Golnaz Vahedi, Ph.D.; An Engineering Approach towards Personalized Cancer Therapy; August 2009</simpara>
+				</listitem>
+				<listitem>
+					<simpara>Babak Faryabi*, Ph.D.; Systems Medicine: An Integrated Approach with Decision Making Perspective; August 2009</simpara>
+				</listitem>
+				<listitem>
+					<simpara>Lingjia Liu, Ph.D.; On Delay-Sensitive Communication over Wireless Systems; May 2008</simpara>
+				</listitem>
+			</itemizedlist>
+			<itemizedlist>
+				<listitem>
+					<simpara>Daniel Tunon Coronado, M.S.; Analysis and Implementation of an Orientation-Aware Source Localization System with Smart Devices; August 2014</simpara>
+				</listitem>
+				<listitem>
+					<simpara>Nicholas William Brennan, M.S.; A Modular Networked System for Combined Fluidic, Electronic, and Thermal Control of a Multifunctional Reconfigurable Antenna Array; August 2014</simpara>
+				</listitem>
+				<listitem>
+					<simpara>Pankaj Parag, M.S.; Detecting the Presence of a Proximate Cellular User through Distributed Femtocell Sensing; December 2012</simpara>
+				</listitem>
+				<listitem>
+					<simpara>Sirisha Mantravadi, M.S.; Hybrid Access Control Mechanism in Two-Tier Femtocell Networks; December 2012</simpara>
+				</listitem>
+				<listitem>
+					<simpara>Eman Hammad, M.S.; Exploiting Reconfigurable Antennas in Communication Systems with Delay-Sensitive Applications; December 2011</simpara>
+				</listitem>
+				<listitem>
+					<simpara>Yi Cai, M.S.; Queueing Behavior over a Gilbert-Elliott Packet erasure Channel; December 2011</simpara>
+				</listitem>
+				<listitem>
+					<simpara>Zied Bouida, M.S.; Performance Analysis of Fully Joint Diversity Combining, Adaptive Modulation, and Power Control Schemes; Auguest 2009</simpara>
+				</listitem>
+				<listitem>
+					<simpara>Dae Hyun Choi, M.S.; Performance Analysis Using Sequential Detection in a Serial Multi-Hop Wireless Sensor Network; August 2008</simpara>
+				</listitem>
+				<listitem>
+					<simpara>Omar Ahmed Ali, M.S.; Delay-Sensitive Communication over Wireless Multihop Channels; May 2008</simpara>
+				</listitem>
+				<listitem>
+					<simpara>Nirmal Kumar Gunaseelan, M.S.; Quality of Service Analysis for Hybrid-ARQ; May 2008</simpara>
+				</listitem>
+			</itemizedlist>
+		</sect2>
+		<sect2>
+			<title>Students Advised through Graduate Committee</title>
+			<para>
+				At Texas A&amp;M University, the progress of a graduate student is guided and evaluated by an adviser and a graduate committee.
+				Members of the graduate committee are expected to give directions and support for the appropriate developmental and learning goals of the student.
+				The members of the graduate committee also have the obligation of evaluating a graduate student's academic performance.
+				This is clearly explained in the information provided by the
+				<ulink url="http://ogs.tamu.edu/">Office of Graduate Studies</ulink>
+				.
+			</para>
+			<para>
+				The significance of the graduate experience of a particular student is partly determined by the quality, scope, and extent of the interaction with his or her committee members.
+				To facilitate this interaction, I reserve the right to ask students for whom I am a committee member to present their work during group meetings.
+				Frequent presentations keep the group informed about the progress of other students and it gives an opportunity to provide feedback to students about their prospective research directions.
+				Thus, by requesting my presence on a committee, a student implicitly agrees to this condition.
+			</para>
+		</sect2>
+	</sect1>
+	
+	<sect1 id="Initiatives">
+		<title id="Initiatives.title">Research Initiatives</title>
+		<para>
+			J.-F. Chamberland conducts research in probability theory, statistical methods, and in their applications to control and communication systems.
+			His current research focuses on statistical problems in the context of wireless communications, sensor networks, and genomic signal processing.
+			He is also interested in the topics of control with communication constraints and optimization with possible applications to networks, biological systems, and economics.
+			Furthermore, he seeks to develop
+			techniques and paradigms that permit the analysis and the design of complex systems.
+			Some of the areas that he and his collaborators work on are detailed below.
+		</para>
+		<sect2>
+			<title>Wireless Communications for Delay-Sensitive Traffic</title>
+			<para>
+				This research initiative addresses current issues in wireless and hybrid data networks.
+				Wireless technology offers a unique mixture of connectivity, flexibility, and freedom.
+				It plays an instrumental role in bridging the gap between mobile devices and established communication infrastructures.
+				Today, wireless technology is being embraced with increasing vigor.
+				This trend is reflected in the growing interest for multihop wireless networks.
+				Wireless systems have the potential to fulfill the long-standing promise of pervasive computing and ubiquitous network access.
+				Recent breakthroughs in multi-antenna systems, user cooperation, active relaying and network coding provide a foundation to realize the next radical advance in information technology: building reliable wireless multihop networks that can support delay-sensitive applications (e.g., VoIP, video conferencing, remote control, monitoring, gaming).
+				Stringent delay constraints typical of real-time traffic suggest that a classical capacity/throughput analysis of the communication infrastructure associated with a multihop wireless network may not offer an accurate assessment of overall performance.
+				In particular, existing models for wireless networks are limited in their ability to characterize time-variation issues in both single-hop and multihop channels.
+				This research project seeks to improve the robustness and reliability of wireless multihop systems and to enable them to support delay-sensitive applications.
+				To achieve this goal, we envisage a number of broad objectives for which both models and methodology must be advanced.
+			</para>
+			<orderedlist>
+				<listitem>
+					<simpara>Develop an integrated methodology for the analysis of wireless systems that support real-time traffic and delay-sensitive applications such as voice, video conferencing, inference and control.</simpara>
+				</listitem>
+				<listitem>
+					<simpara>Use this methodology to identify fundamental performance limits and to design algorithms which allocate system resources efficiently when confronted by stringent service requirements.</simpara>
+				</listitem>
+				<listitem>
+					<simpara>Create communication schemes for delay-sensitive traffic that take advantage of novel paradigms in wireless communications such as network coding, active relaying, user cooperation, multi-antenna systems, and multipath routing.</simpara>
+				</listitem>
+				<listitem>
+					<simpara>Develop a comprehensive evaluation and validation platform for system design and algorithm development in the context of small wireless multihop networks.</simpara>
+				</listitem>
+			</orderedlist>
+		</sect2>
+		<sect2>
+			<title>Detection and Estimation Theory with Applications to Sensor Networks</title>
+			<para>
+				The emergence of miniature sensors with low-power wireless transceivers holds the promise of a new phase in the wireless revolution.
+				Wireless sensor networks possess the ability to collect and transmit environmental data through the deployment of inexpensive devices.
+				The amount of information generated by systems composed of hundreds or thousands of wireless sensors is vast.
+				This creates many new challenges for the processing and transmission of the gathered data.
+				New analysis tools are required to provide insight into the efficient design of sensor networks, especially in the context of inference problems and other delay-sensitive applications.
+				The goal of this research initiative is to capture the preponderant features of sensor networks, and to use these features to derive guidelines and heuristics for the design of such systems.
+			</para>
+			<para>
+				Detection is a prime application of wireless sensor networks, and often serves as the initial goal of the system.
+				For instance, the presence of an object has to be ascertained before a sensor network can estimate its attributes.
+				The ability of a sensor network to make accurate decisions is governed by the amount of information available at the decision center.
+				As such, we have been studying resource allocation and its impact on system performance for decentralized detection in wireless sensor networks.
+				We have shown that under certain conditions having identical sensor nodes, each node sending one bit of information, is optimal.
+				Furthermore, we have proposed a collection of performance metrics that can be employed to compare prospective sensor nodes in large networks.
+				There are many directions in which future work can proceed.
+			</para>
+			<orderedlist>
+				<listitem>
+					<simpara>
+						Modulation and error control coding have been employed successfully at the physical layer to shield information from interference and ambient noise.
+						This is very encouraging for sensor networks as error control codes could permit the reliable transmission of information from the nodes.
+						The relation between coding, performance, and power consumption in wireless sensor networks has not been explored in the literature.
+						In general, a string of observations is required to be able to apply standard error correcting techniques.
+						Yet successive observations corresponding to a same phenomenon can be fused together locally to reduce the data rate at the output of a sensor node.
+						Comparing the performance of these two alternatives for the transmission of data over sensor networks is of interest.
+					</simpara>
+				</listitem>
+				<listitem>
+					<simpara>
+						While the assumption that observations at the sensors are conditionally independent is common and convenient for analysis, it does not necessarily hold for arbitrary sensing systems.
+						For instance, whenever sensor nodes lie in close proximity of one another, their observations are likely to be conditionally dependent.
+						An interesting problem then is to derive rules for the optimal placement of sensors in correlated stochastic fields and to assess overall system performance as a function of node density and quantizer accuracy.
+					</simpara>
+				</listitem>
+			</orderedlist>
+			<para>
+				Wireless nodes typically operate under stringent resource constraints.
+				Energy efficient designs translate into more information for inference and, potentially, prolonged lifetimes for the corresponding systems.
+				To minimize energy consumption in a wireless sensor network, sensor nodes are envisioned to have the ability to transmit information, process data, or sleep depending on the level of interest in the next few observations.
+				We have obtained preliminary results that suggest that sensor nodes can use a priori knowledge about the process they are monitoring together with their current and past observations to save energy.
+				This leads to several avenues of future research.
+			</para>
+			<orderedlist>
+				<listitem>
+					<simpara>
+						The sleeping strategy whereby sensor nodes go to sleep when the event of interest becomes improbable, but stay awake otherwise, has shown potential for substantial energy savings.
+						However, the optimal design of multi-sensor sleeping policy is difficult, due to a vast search space.
+						A more complete study of sleeping policies using approximation tools such as neuro-dynamic programming is needed.
+					</simpara>
+				</listitem>
+				<listitem>
+					<simpara>
+						For situations where sensor nodes do not have a priori knowledge about the stochastic process they wish to observe, adaptive sleeping policies can be considered.
+						In an adaptive policy, sensor nodes use empirical measurements to estimate the statistics of the observed process.
+						Once these statistics are known with sufficient accuracy, sensor nodes can enter a sleeping pattern where nodes are powered off whenever the next few observations are unlikely to contain much information.
+						The design and performance analysis of adaptive sleeping policies are of interest.
+					</simpara>
+				</listitem>
+				<listitem>
+					<simpara>
+						One of the challenges in the creation of energy-aware self-configuring wireless sensor networks is to develop efficient communication protocols.
+						Wireless channels are characterized by a rapid decay in signal strength.
+						The sublinear relationship between received power and distance implies that using a series of short hops in a wireless network typically requires less energy than using one large hop between the source of a data set and its destination.
+						It is then important to characterize the interplay between in-network signal processing and traffic burstiness in event-driven applications.
+						Sensor nodes that monitor rare events are likely to collect and transmit observations concurrently, thereby creating waves of traffic in the network.
+						This bursty behavior can be alleviated by merging and processing information at critical points in the network.
+					</simpara>
+				</listitem>
+			</orderedlist>
+		</sect2>
+		<sect2>
+			<title>Genomic Signal Processing and Efficient Intervention Strategies</title>
+			<para>
+				The mechanisms governing the evolution of biological cells are extremely complicated.
+				The study of these subtle interactions at the biochemical level has been the subject of ongoing scientific efforts for several decades.
+				The great complexity of most biological systems suggests that many more decades of work may be required before we gain a precise understanding of the chemical interactions present in these systems.
+				While fundamental research that strives to better our understanding of the cell and its operation is very commendable, an equally important endeavor is to develop models and intervention strategies to help cure diseases caused by malfunctioning cell-cycles.
+			</para>
+			<para>
+				Cancer and related degenerative diseases are system impairments where the normal operation of a cell, with its multiple feedback and regulation mechanisms, fails.
+				A key aspect to cancer treatment is the realization that we need not catalog every possible biochemical interactions in a system to successfully control its behavior.
+				Engineering has had important successes where system operation is efficiently regulated despite the fact that only limited information is available about the subcomponents of the controlled entity.
+				The capable approach of stochastic modeling that underlies many such successes in system engineering promises to provide a framework for the design and implementation of effective gene therapies.
+				To this end, novel technology is currently being developed to track the time-evolution of individual cells.
+				The corresponding experiments produce time-course data on the progression of individual cells by sampling sequentially the phenotype of these organisms.
+				In particular, the recent development of cDNA microarray technology that tracks gene-expression in a single cell through time will facilitate the application of control theory to cancer treatment.
+				Along with this emerging technology, new analysis tools are required to give insight into the design of efficient intervention strategies.
+			</para>
+			<para>
+				The perspective adopted in this project is to view the cell as a biological system that can be monitored and regulated over time.
+				To fully take advantage of a system theoretic approach in the design of efficient therapeutic strategies, two aspects of this interdisciplinary problem need to be addressed: (1) the development and validation of accurate stochastic models for the evolution of the cell, and (2) the design and evaluation of efficient control strategies applied to living organisms.
+				It is these two issues, system identification and the design of efficient intervention strategies, that we seek to address in this project.
+				A straightforward use of existing computation concepts, models, and methods may not work for the problems at hand.
+				For cancer treatment, the a priori identification of good gene candidates, relevant pathways, and prospective drugs are examples of where the integration of biological knowledge with engineering insight can lead to innovations in computational thinking.
+				Without a genuine collaboration between biochemists and engineers, this project would not be possible.
+				This research initiative is joint work with the
+				<ulink url="http://gsp.tamu.edu/">Genomic Signal Processing Laboratory</ulink>
+				at Texas A&amp;M University and the
+				<ulink url="http://www.tgen.org/">Translational Genomics Research Institute (TGen)</ulink>
+				.
+			</para>
+		</sect2>
+		<sect2>
+			<title>Education and Technology</title>
+			<para>
+				Teaching provides an exceptional opportunity to share knowledge and contribute to the scholarship of students.
+				As a teacher, J.-F. Chamberland seeks to achieve three main interrelated pedagogical objectives: provide the students with a base of concepts and engineering skills, foster their interest in applied and theoretical research, and promote innovative and critical thinking.
+				In college, a large portion of student learning occurs outside classrooms.
+				One of the roles of an instructor is to facilitate and support this learning process.
+				Understanding how emerging technologies such as content management systems, wikis, discussion boards, streaming contents and licensing influence learning and cooperation among students is an important research topic that will shape the future of education.
+				This research area is an integrant part of our education program.
+			</para>
+		</sect2>
+	</sect1>
+	
+	<sect1 id="Publications">
+		<title id="Publications.title">Academic Publications</title>
+		<para>
+			&copy; IEEE.
+			Personal use of this material is permitted.
+			However, permission to reprint/republish this material for advertising or promotional purposes or for creating new collective works for resale or redistribution to servers or lists, or to reuse any copyrighted component of this work in other works must be obtained from the IEEE.
+		</para>
+		<sect2>
+			<title>Journal Articles</title>
+			<orderedlist>
+				<listitem>
+					<simpara>
+						P. Parag, J.-F. Chamberland, H. D. Pfister, and K. R. Narayanan.
+						Code-rate selection, queueing behavior and the correlated erasure channel.
+						IEEE Transactions on Information Theory, 59(1):397– 407, January 2013.
+					</simpara>
+				</listitem>
+				<listitem>
+					<simpara>
+						P. Parag, S. Sah, S. Shakkottai, and J.-F. Chamberland.
+						Value-aware resource allocation for service guarantees in networks.
+						IEEE Journal on Selected Areas in Communications, 29(5):960–968, May 2011.
+					</simpara>
+				</listitem>
+				<listitem>
+					<simpara>
+						N. Gunaseelan, L. Liu, J.-F. Chamberland, and G. H. Huff.
+						Performance analysis of wireless hybrid-ARQ systems with delay-sensitive traffic.
+						IEEE Transactions on Communications, 58(4):1262–1272, April 2010.
+					</simpara>
+				</listitem>
+				<listitem>
+					<simpara>
+						P. Parag and J.-F. Chamberland.
+						Queueing analysis of a butterfly network for comparing network coding to classical routing.
+						IEEE Transactions on Information Theory, 56(4):1890–1889, April 2010.
+					</simpara>
+				</listitem>
+				<listitem>
+					<simpara>
+						G. Vahedi, B. Faryabi, J.-F. Chamberland, A. Datta, and E. R. Dougherty.
+						Sampling-rate-dependent probabilistic Boolean networks.
+						Journal of Theoretical Biology, 261(4):540–547, December 2009.
+					</simpara>
+				</listitem>
+				<listitem>
+					<simpara>
+						B. Faryabi, G. Vahedi, A. Datta, J.-F. Chamberland, and E. R. Dougherty.
+						Recent advances in intervention in Markovian regulatory networks.
+						Current Genomics, 10(7):463–477, November 2009.
+					</simpara>
+				</listitem>
+				<listitem>
+					<simpara>
+						B. Faryabi, G. Vahedi, J.-F. Chamberland, A. Datta, and E. R. Dougherty.
+						Intervention in context-sensitive probabilistic boolean networks revisited.
+						EURASIP Journal on Bioinformatics and Systems Biology, 2009(360864), 2009.
+					</simpara>
+				</listitem>
+				<listitem>
+					<simpara>
+						G. Vahedi, B. Faryabi, J.-F. Chamberland, A. Datta, and E. R. Dougherty.
+						Optimal intervention strategies for cyclic therapeutical methods.
+						IEEE Transactions on Biomedical Engineering, 56(2):281–291, February 2009.
+					</simpara>
+				</listitem>
+				<listitem>
+					<simpara>
+						B. Faryabi, J.-F. Chamberland, G. Vahedi, A. Datta, and E. R. Dougherty.
+						Optimal intervention in asynchronous genetic regulatory networks.
+						IEEE Journal of Selected Topics in Signal Processing, 2(3):412–423, June 2008.
+					</simpara>
+				</listitem>
+				<listitem>
+					<simpara>
+						G. Vahedi, B. Faryabi, J.-F. Chamberland, A. Datta, and E. R. Dougherty.
+						Intervention in gene regulatory networks via a stationary mean-first-passage-time control policy.
+						IEEE Transactions on Biomedical Engineering, 55(10):2319–2331, October 2008.
+					</simpara>
+				</listitem>
+				<listitem>
+					<simpara>
+						L. Liu, J.-F. Chamberland, and S. L. Miller.
+						User cooperation in the absence of phase information at the transmitters.
+						IEEE Transactions on Information Theory, 54(3):1197–1206, March 2008.
+					</simpara>
+				</listitem>
+				<listitem>
+					<simpara>
+						B. Faryabi, G. Vahedi, J.-F. Chamberland, A. Datta, and E. R. Dougherty.
+						Optimal constrained stationary intervention in gene regulatory networks.
+						EURASIP Journal on Bioinformatics and Systems Biology, 2008(620767), 2008.
+					</simpara>
+				</listitem>
+				<listitem>
+					<simpara>
+						L. Liu, P. Parag, and J.-F. Chamberland.
+						Quality of service analysis for wireless user-cooperation networks.
+						IEEE Transactions on Information Theory, 53(10):3833–3842, October 2007.
+					</simpara>
+				</listitem>
+				<listitem>
+					<simpara>
+						L. Liu, P. Parag, J. Tang, W.-Y. Chen, and J.-F. Chamberland.
+						Resource allocation and quality of service evaluation for wireless communication systems using fluid models.
+						IEEE Transactions on Information Theory, 53(5):1767–1777, May 2007.
+					</simpara>
+				</listitem>
+				<listitem>
+					<simpara>
+						J.-F. Chamberland and V. V. Veeravalli.
+						Wireless sensors in distributed detection applications.
+						IEEE Signal Processing Magazine, 24(3):16–25, May 2007.
+					</simpara>
+				</listitem>
+				<listitem>
+					<simpara>
+						J.-F. Chamberland and V. V. Veeravalli.
+						How dense should a sensor network be for detection with correlated observations?
+						IEEE Transactions on Information Theory, 52(11):5099–5106, November 2006.
+					</simpara>
+				</listitem>
+				<listitem>
+					<simpara>
+						J.-F. Chamberland and V. V. Veeravalli.
+						Asymptotic results for decentralized detection in power constrained wireless sensor networks.
+						IEEE Journal on Selected Areas in Communications, 22(6):1007–1015, August 2004.
+					</simpara>
+				</listitem>
+				<listitem>
+					<simpara>
+						J.-F. Chamberland and V. V. Veeravalli.
+						Decentralized dynamic power control for cellular CDMA systems.
+						IEEE Transactions on Wireless Communications, 2(3):549–559, May 2003.
+					</simpara>
+				</listitem>
+				<listitem>
+					<simpara>
+						J.-F. Chamberland and V. V. Veeravalli.
+						Decentralized detection in sensor networks.
+						IEEE Transactions on Signal Processing, 51(2):407–416, February 2003.
+					</simpara>
+				</listitem>
+			</orderedlist>
+		</sect2>
+		<sect2>
+			<title>Conference Proceedings</title>
+			<orderedlist>
+				<listitem>
+					<simpara>
+						Z. Xia, G. H. Huff, and J.-F. Chamberland.
+						Comparison of sparse planar arrays with random and periodic element configurations.
+						In European Conference on Antennas and Propagation, Gothenburg, Sweden, April 2013. European Association on Antennas and Propagation.
+					</simpara>
+				</listitem>
+				<listitem>
+					<simpara>
+						S. Kumar, J.-F. Chamberland, and G. H. Huff.
+						Reconfigurable antennas, preemptive switching and virtual channel management under partial observations.
+						In National Radio Science Meeting, Boulder, CO, January 2013. USNC-URSI &amp; The National Academies.
+					</simpara>
+				</listitem>
+				<listitem>
+					<simpara>
+						F. Hamidi-Sepehr, J.-F. Chamberland, and H. D. Pfister.
+						On the performance of random block codes over finite-state fading channels.
+						In Allerton Conference on Communication, Control, and Computing, Monticello, IL, October 2012. IEEE.
+					</simpara>
+				</listitem>
+				<listitem>
+					<simpara>
+						J. S. Jensen, G. H. Huff, and J.-F. Chamberland.
+						Beamsteering, tracking, phasing using an Android smart phone.
+						In Antenna Applications Symposium, Monticello, IL, September 2012.
+					</simpara>
+				</listitem>
+				<listitem>
+					<simpara>
+						S. Kumar, J.-F. Chamberland, and G. H. Huff.
+						Analyzing the impact of delays from antenna reconfiguration on virtual channel management.
+						In International Symposium on Antennas and Propagation and USNC-URSI National Radio Science Meeting, Chicago, IL, July 2012. USNC-URSI &amp; IEEE.
+					</simpara>
+				</listitem>
+				<listitem>
+					<simpara>
+						P. Parag, S. Kumar, J.-F. Chamberland, and G. H. Huff.
+						Detecting the presence of a proximate cellular user through distributed femtocell sensing.
+						In Sensor Array and Multichannel Signal Processing Workshop, Hoboken, NJ, June 2012. IEEE.
+					</simpara>
+				</listitem>
+				<listitem>
+					<simpara>
+						Z. Xia, G. H. Huff, J.-F. Chamberland, H. D. Pfister, and R. Bhattacharya.
+						Direction of arrival estimation using canonical and crystallographic volumetric element configurations.
+						In European Conference on Antennas and Propagation, pages 1436–1439, Prague, Czech Republic, March 2012. IEEE.
+					</simpara>
+				</listitem>
+				<listitem>
+					<simpara>
+						F. Hamidi-Sepehr, H. D. Pfister, and J.-F. Chamberland.
+						On the queueing behavior of Gilbert-Elliott channels in the rare-transition regime.
+						In Conference on Information Sciences and Systems, Princeton, NJ, March 2012.
+					</simpara>
+				</listitem>
+				<listitem>
+					<simpara>
+						J.-F. Chamberland, G. H. Huff, and S. Shakkottai.
+						Reconfigurable antennas, preemptive switching and virtual channel management.
+						In National Radio Science Meeting, Boulder, CO, January 2012. USNC-URSI &amp; The National Academies.
+					</simpara>
+				</listitem>
+				<listitem>
+					<simpara>
+						S. Kumar, H. D. Pfister, and J.-F. Chamberland.
+						Large deviations on empirical service for erasure channels with memory.
+						In Allerton Conference on Communication, Control, and Computing, Monticello, IL, September 2011. IEEE.
+					</simpara>
+				</listitem>
+				<listitem>
+					<simpara>
+						F. Hamidi-Sepehr, Y. Cai, H. D. Pfister, and J.-F. Chamberland.
+						Queueing behavior of the Gilbert-Elliott channel: BCH codes and Poisson arrivals.
+						In International Symposium on Information Theory, Saint Petersburg, Russia, August 2011. IEEE.
+					</simpara>
+				</listitem>
+				<listitem>
+					<simpara>
+						P. Parag and J.-F. Chamberland.
+						Exploiting an interplay between norms to analyze scalar quantization schemes.
+						In International Conference on Acoustics, Speech, and Signal Processing, Prague, Czech Republic, May 2011. IEEE.
+					</simpara>
+				</listitem>
+				<listitem>
+					<simpara>
+						J.-F. Chamberland, H. D. Pfister, and S. Shakkottai.
+						First-passage time analysis for digital communication over erasure channels with delay-sensitive traffic.
+						In Allerton Conference on Communication, Control, and Computing, Monticello, IL, September 2010. IEEE.
+					</simpara>
+				</listitem>
+				<listitem>
+					<simpara>
+						P. Parag, J.-F. Chamberland, H. D. Pfister, and K. R. Narayanan.
+						On the queueing behavior of random codes over a Gilbert-Elliott erasure channel.
+						In International Symposium on Information Theory, Austin, TX, June 2010. IEEE.
+					</simpara>
+				</listitem>
+				<listitem>
+					<simpara>
+						P. Parag, S. Shakkottai, and J.-F. Chamberland.
+						Value-aware resource allocation for service guarantees in networks.
+						In Conference on Computer Communications, San Diego, CA, March 2010. IEEE.
+					</simpara>
+				</listitem>
+				<listitem>
+					<simpara>
+						P. Parag, J.-F. Chamberland, H. D. Pfister, and K. R. Narayanan.
+						Code rate, queueing behavior and the correlated erasure channel.
+						In Information Theory Workshop on Information Theory, Cairo, Egypt, January 2010. IEEE.
+					</simpara>
+				</listitem>
+				<listitem>
+					<simpara>
+						B. Faryabi, G. Vahedi, J.-F. Chamberland, A. Datta, and E. R. Dougherty.
+						Open-loop feedback intervention: Control of gene regulatory networks with unmeasurable context.
+						In International Workshop on Genomic Signal Processing and Statistics, Minneapolis, MN, May 2009. IEEE.
+					</simpara>
+				</listitem>
+				<listitem>
+					<simpara>
+						P. Parag and J.-F. Chamberland.
+						Queueing analysis of a butterfly network.
+						In International Symposium on Information Theory, Toronto, Canada, July 2008. IEEE.
+					</simpara>
+				</listitem>
+				<listitem>
+					<simpara>
+						L. Liu and J.-F. Chamberland.
+						On the effective capacities of multi-antenna Gaussian channels.
+						In International Symposium on Information Theory, Toronto, Canada, July 2008. IEEE.
+					</simpara>
+				</listitem>
+				<listitem>
+					<simpara>
+						G. Vahedi, B. Faryabi, J.-F. Chamberland, A. Datta, and E. R. Dougherty.
+						Modeling cyclic therapy in gene regulatory networks.
+						In International Workshop on Genomic Signal Processing and Statistics, Phoenix, AZ, June 2008. IEEE.
+					</simpara>
+				</listitem>
+				<listitem>
+					<simpara>
+						B. Faryabi, G. Vahedi, J.-F. Chamberland, A. Datta, and E. R. Dougherty.
+						Constrained intervention in a cancerous mammalian cell cycle network.
+						In International Workshop on Genomic Signal Processing and Statistics, Phoenix, AZ, June 2008. IEEE.
+					</simpara>
+				</listitem>
+				<listitem>
+					<simpara>
+						G. Vahedi, B. Faryabi, J.-F. Chamberland, A. Datta, and E. R. Dougherty.
+						Mean first-passage time control policy versus reinforcement-learning control policy in gene regulatory networks.
+						In American Control Conference, Seattle, WA, June 2008. IEEE.
+					</simpara>
+				</listitem>
+				<listitem>
+					<simpara>
+						B. Faryabi, J.-F. Chamberland, G. Vahedi, A. Datta, and E. R. Dougherty.
+						Optimal intervention in semi-Markov-based asynchronous genetic regulatory networks.
+						In American Control Conference, Seattle, WA, June 2008. IEEE.
+					</simpara>
+				</listitem>
+				<listitem>
+					<simpara>
+						L. Liu, J.-F. Chamberland, and K. Qaraqe.
+						Enabling delay-sensitive applications over sensor networks using a two-tier architecture and multi-antenna cluster heads.
+						In International Workshop on Computational Advances in Multi-Sensor Adaptive Processing, St. Thomas, Virgin Islands, December 2007. IEEE.
+					</simpara>
+				</listitem>
+				<listitem>
+					<simpara>
+						Y. M. Ko, J.-F. Chamberland, and N. Gautam.
+						Optimal policies for control of peers in online multimedia services.
+						In Conference on Decision and Control, New Orleans, LA, December 2007. IEEE.
+					</simpara>
+				</listitem>
+				<listitem>
+					<simpara>
+						A. Balasubramanian, L. Liu, S. L. Miller, and J.-F. Chamberland.
+						The rate region of a cooperative scheduling system.
+						In Conference on Information Sciences and Systems, Baltimore, MD, March 2007.
+					</simpara>
+				</listitem>
+				<listitem>
+					<simpara>
+						L. Liu and J.-F. Chamberland.
+						Cross-layer optimization and information assurance in decentralized detection over wireless sensor networks.
+						In Asilomar Conference on Signals, Systems and Computers, Monterey, CA, October 2006. IEEE.
+					</simpara>
+				</listitem>
+				<listitem>
+					<simpara>
+						L. Liu, P. Parag, J. Tang, W.-Y. Chen, and J.-F. Chamberland.
+						Resource allocation and quality of service evaluation for wireless communication systems using fluid models.
+						In Allerton Conference on Communication, Control, and Computing, Monticello, IL, September 2006. IEEE.
+					</simpara>
+				</listitem>
+				<listitem>
+					<simpara>
+						J.-F. Chamberland.
+						A first look at the hidden cost of random node placement in wireless sensor networks.
+						In Workshop on Statistical Signal Processing, Bordeaux, France, July 2005. IEEE.
+					</simpara>
+				</listitem>
+				<listitem>
+					<simpara>
+						L. Liu, J.-F. Chamberland, and S. L. Miller.
+						The uplink achievable rate region of a user cooperation scheme.
+						In Canadian Workshop on Information Theory, Montreal, Canada, June 2005. IEEE.
+					</simpara>
+				</listitem>
+				<listitem>
+					<simpara>
+						J.-F. Chamberland and V. V. Veeravalli.
+						How dense should a sensor network be for detection applications.
+						In International Conference on Acoustics, Speech, and Signal Processing, Philadelphia, PA, March 2005. IEEE.
+					</simpara>
+				</listitem>
+				<listitem>
+					<simpara>
+						J.-F. Chamberland and V. V. Veeravalli.
+						Design of sensor networks for detection applications via large deviation theory.
+						In Information Theory Workshop, San Antonio, TX, October 2004. IEEE.
+					</simpara>
+				</listitem>
+				<listitem>
+					<simpara>
+						J.-F. Chamberland and V. V. Veeravalli.
+						Decentralized detection in wireless sensor systems with dependent observations.
+						In International Conference on Computing, Communications and Control Technologies, Austin, TX, August 2004. IIIS.
+					</simpara>
+				</listitem>
+				<listitem>
+					<simpara>
+						J.-F. Chamberland and V. V. Veeravalli.
+						Adaptive signaling schemes for detection in wireless sensor networks.
+						In International Symposium on Information Theory, Chicago, IL, June 2004. IEEE.
+					</simpara>
+				</listitem>
+				<listitem>
+					<simpara>
+						J.-F. Chamberland and V. V. Veeravalli.
+						The impact of fading on decentralized detection in power constrained wireless sensor networks.
+						In International Conference on Acoustics, Speech, and Signal Processing, Montreal, Canada, May 2004. IEEE.
+					</simpara>
+				</listitem>
+				<listitem>
+					<simpara>
+						J.-F. Chamberland and V. V. Veeravalli.
+						The art of sleeping in wireless sensing systems.
+						In Workshop on Statistical Signal Processing, St. Louis, MO, September 2003. IEEE.
+					</simpara>
+				</listitem>
+				<listitem>
+					<simpara>
+						J.-F. Chamberland and V. V. Veeravalli.
+						Asymptotic results for detection in power constrained wireless sensor networks.
+						In International Symposium on Information Theory, Yokohama, Japan, June 2003. IEEE.
+					</simpara>
+				</listitem>
+				<listitem>
+					<simpara>
+						J.-F. Chamberland and V. V. Veeravalli.
+						Decentralized detection in wireless sensor networks.
+						In Conference on Information Sciences and Systems, Princeton, NY, March 2002.
+					</simpara>
+				</listitem>
+				<listitem>
+					<simpara>
+						J.-F. Chamberland and V. V. Veeravalli.
+						Decentralized dynamic power control for cellular spread spectrum systems.
+						In International Symposium on the Convergence of Information Technologies and Communications, Denver, CO, August 2001. SPIE.
+					</simpara>
+				</listitem>
+				<listitem>
+					<simpara>
+						J.-F. Chamberland and V. V. Veeravalli.
+						Optimal dynamic power control for CDMA systems.
+						In International Symposium on Information Theory, Sorrento, Italy, June 2000. IEEE.
+					</simpara>
+				</listitem>
+			</orderedlist>
+		</sect2>
+		<sect2>
+			<title>Book Chapters</title>
+			<orderedlist>
+				<listitem>
+					<simpara>
+						J.-F. Chamberland and V. V. Veeravalli.
+						Wireless Sensor Networks: Signal Processing and Communications Perspectives,
+						Detection in Sensor Networks.
+						John Wiley &amp; Sons, December 2007.
+					</simpara>
+				</listitem>
+			</orderedlist>
+		</sect2>
+	</sect1>
+</article>
