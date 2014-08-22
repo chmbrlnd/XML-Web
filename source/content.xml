@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "../docbook-xml-4.5/docbookx.dtd">
 
-<article id="index">
+<article id="Content">
 	<title>Prof. Jean-Francois Chamberland-Tremblay</title>
 	<articleinfo>
 		<author>
@@ -25,21 +25,13 @@
 		</mediaobject>
 	</para>
 	
-	<sect1>
+	<sect1 id="index">
 		<title>Welcome!</title>
 		<para>
-			I am an Associate Professor in the Department of Electrical and Computer Engineering at
-			<ulink url="http://www.tamu.edu/">Texas A&amp;M University</ulink>
-			.
+			I am an Associate Professor in the Department of Electrical and Computer Engineering at <ulink url="http://www.tamu.edu/">Texas A&amp;M University</ulink>.
 			I was born and raised in Quebec City, Canada.
-			I completed a Bachelor of Engineering degree at
-			<ulink url="http://www.mcgill.ca">McGill University</ulink>
-			and a Master of Science degree at
-			<ulink url="http://www.cornell.edu/">Cornell University</ulink>
-			.
-			I received a Doctor of Philosophy degree from the
-			<ulink url="http://www.illinois.edu">University of Illinois</ulink>
-			at Urbana-Champaign in Electrical Engineering.
+			I completed a Bachelor of Engineering degree at <ulink url="http://www.mcgill.ca">McGill University</ulink> and a Master of Science degree at <ulink url="http://www.cornell.edu/">Cornell University</ulink>.
+			I received a Doctor of Philosophy degree from the <ulink url="http://www.illinois.edu">University of Illinois</ulink> at Urbana-Champaign in Electrical Engineering.
 		</para>
 		<para>
 			My research interests are in the areas of communication and information theory, decision and control, computer systems and networks, statistical inference, learning, and applied probability.
@@ -65,20 +57,13 @@
 						<link linkend="Publications" endterm="Publications.title" />
 					</simpara>
 				</listitem>
-				<listitem>
-					<simpara>
-						<link linkend="Site" endterm="Site.title" />
-					</simpara>
-				</listitem>
 			</itemizedlist>
 		</sect2>
 		<sect2>
 			<title>Contact Information</title>
 			<para>
 				My office is located in the Wisenbaker Engineering Research Center (WERC).
-				The
-				<ulink url="http://aggiemap.tamu.edu/?Bldg=0682">Interactive Campus Map</ulink>
-				for Texas A&amp;M University shows where buildings are located in regard to a map.
+				The <ulink url="http://aggiemap.tamu.edu/?Bldg=0682">Interactive Campus Map</ulink> for Texas A&amp;M University shows where buildings are located in regard to a map.
 			</para>
 			<itemizedlist>
 				<listitem>
@@ -106,7 +91,7 @@
 	</sect1>
 
 	<sect1 id="Students">
-		<title id="Students.title">Students and Alumni</title>
+		<title id="Students.title">Current Students and Alumni</title>
 		<sect2>
 			<title>Ph.D. Candidate(s)</title>
 			<itemizedlist>
@@ -119,10 +104,10 @@
 			<title>M.S. Student(s)</title>
 			<itemizedlist>
 				<listitem>
-					<simpara>Siddharth Agarwal</simpara>
+					<simpara><ulink url="http://www.linkedin.com/in/sidagarwal90">Siddharth Agarwal</ulink></simpara>
 				</listitem>
 				<listitem>
-					<simpara>Alexandru Raducanu</simpara>
+					<simpara><ulink url="http://www.linkedin.com/pub/alex-raducanu/63/7ab/462">Alexandru Raducanu</ulink></simpara>
 				</listitem>
 			</itemizedlist>
 		</sect2>
@@ -130,51 +115,65 @@
 			<title>Alumni</title>
 			<itemizedlist>
 				<listitem>
-					<simpara>Fatemeh Hamidi Sepehr, Ph.D.; Performance Analysis of Block Codes over Finite-State Channels in Delay-Sensitive Communications; May 2014</simpara>
+					<simpara><ulink url="http://www.linkedin.com/pub/fatemeh-hamidi-sepehr/56/23a/a22">Fatemeh Hamidi Sepehr</ulink>, Ph.D.; Performance Analysis of Block Codes over Finite-State Channels in Delay-Sensitive Communications; May 2014</simpara>
 				</listitem>
 				<listitem>
-					<simpara>Parimal Parag, Ph.D.; Delay-Sensitive Communications: Fundamental Limits, Strategies, and Distributed Control; December 2011</simpara>
+					<simpara><ulink url="http://www.linkedin.com/pub/parimal-parag/4/a2a/6a9">Parimal Parag</ulink>, Ph.D.; <ulink url="http://hdl.handle.net/1969.1/ETD-TAMU-2011-12-10699">Delay-Sensitive Communications: Fundamental Limits, Strategies, and Distributed Control</ulink>; December 2011</simpara>
 				</listitem>
 				<listitem>
-					<simpara>Golnaz Vahedi, Ph.D.; An Engineering Approach towards Personalized Cancer Therapy; August 2009</simpara>
+					<simpara><ulink url="http://www.linkedin.com/pub/golnaz-vahedi/4/674/5a5">Golnaz Vahedi</ulink>, Ph.D.; <ulink url="http://hdl.handle.net/1969.1/ETD-TAMU-2009-08-2941">An Engineering Approach towards Personalized Cancer Therapy</ulink>; August 2009</simpara>
 				</listitem>
 				<listitem>
-					<simpara>Babak Faryabi*, Ph.D.; Systems Medicine: An Integrated Approach with Decision Making Perspective; August 2009</simpara>
+					<simpara><ulink url="http://www.linkedin.com/pub/robert-faryabi/15/603/723">Robert Babak Faryabi</ulink>*, Ph.D.; <ulink url="http://hdl.handle.net/1969.1/ETD-TAMU-2009-08-2940">Systems Medicine: An Integrated Approach with Decision Making Perspective</ulink>; August 2009</simpara>
 				</listitem>
 				<listitem>
-					<simpara>Lingjia Liu, Ph.D.; On Delay-Sensitive Communication over Wireless Systems; May 2008</simpara>
+					<simpara><ulink url="http://www.linkedin.com/in/lingjia">Lingjia Liu</ulink>, Ph.D.; <ulink url="http://hdl.handle.net/1969.1/ETD-TAMU-2725">On Delay-Sensitive Communication over Wireless Systems</ulink>; May 2008</simpara>
 				</listitem>
 			</itemizedlist>
 			<itemizedlist>
 				<listitem>
-					<simpara>Daniel Tunon Coronado, M.S.; Analysis and Implementation of an Orientation-Aware Source Localization System with Smart Devices; August 2014</simpara>
+					<simpara><ulink url="http://pa.linkedin.com/pub/daniel-tuñón/6a/960/5a">Daniel Tunon Coronado</ulink>, M.S.; Analysis and Implementation of an Orientation-Aware Source Localization System with Smart Devices; August 2014</simpara>
 				</listitem>
 				<listitem>
-					<simpara>Nicholas William Brennan, M.S.; A Modular Networked System for Combined Fluidic, Electronic, and Thermal Control of a Multifunctional Reconfigurable Antenna Array; August 2014</simpara>
+					<simpara><ulink url="http://www.linkedin.com/pub/nick-brennan/56/6a2/85b">Nicholas William Brennan</ulink>, M.S.; A Modular Networked System for Combined Fluidic, Electronic, and Thermal Control of a Multifunctional Reconfigurable Antenna Array; August 2014</simpara>
 				</listitem>
 				<listitem>
-					<simpara>Pankaj Parag, M.S.; Detecting the Presence of a Proximate Cellular User through Distributed Femtocell Sensing; December 2012</simpara>
+					<simpara><ulink url="http://www.linkedin.com/in/pankajparag">Pankaj Parag</ulink>, M.S.; <ulink url="http://hdl.handle.net/1969.1/148365">Detecting the Presence of a Proximate Cellular User through Distributed Femtocell Sensing</ulink>; December 2012</simpara>
 				</listitem>
 				<listitem>
-					<simpara>Sirisha Mantravadi, M.S.; Hybrid Access Control Mechanism in Two-Tier Femtocell Networks; December 2012</simpara>
+					<simpara><ulink url="http://www.linkedin.com/pub/sirisha-mantravadi/15/462/588">Sirisha Mantravadi</ulink>, M.S.; <ulink url="http://hdl.handle.net/1969.1/148334">Hybrid Access Control Mechanism in Two-Tier Femtocell Networks</ulink>; December 2012</simpara>
 				</listitem>
 				<listitem>
-					<simpara>Eman Hammad, M.S.; Exploiting Reconfigurable Antennas in Communication Systems with Delay-Sensitive Applications; December 2011</simpara>
+					<simpara><ulink url="http://ca.linkedin.com/pub/eman-hammad/6/499/b1b">Eman Hammad</ulink>, M.S.; <ulink url="http://hdl.handle.net/1969.1/ETD-TAMU-2011-12-10538">Exploiting Reconfigurable Antennas in Communication Systems with Delay-Sensitive Applications</ulink>; December 2011</simpara>
 				</listitem>
 				<listitem>
-					<simpara>Yi Cai, M.S.; Queueing Behavior over a Gilbert-Elliott Packet erasure Channel; December 2011</simpara>
+					<simpara><ulink url="http://www.linkedin.com/pub/yi-cai/4a/a96/940">Yi Cai</ulink>, M.S.; <ulink url="http://hdl.handle.net/1969.1/ETD-TAMU-2011-12-10357">Queueing Behavior over a Gilbert-Elliott Packet erasure Channel</ulink>; December 2011</simpara>
 				</listitem>
 				<listitem>
-					<simpara>Zied Bouida, M.S.; Performance Analysis of Fully Joint Diversity Combining, Adaptive Modulation, and Power Control Schemes; Auguest 2009</simpara>
+					<simpara><ulink url="http://ca.linkedin.com/in/bouidazied">Zied Bouida</ulink>, M.S.; <ulink url="http://hdl.handle.net/1969.1/ETD-TAMU-2009-08-7005">Performance Analysis of Fully Joint Diversity Combining, Adaptive Modulation, and Power Control Schemes</ulink>; Auguest 2009</simpara>
 				</listitem>
 				<listitem>
-					<simpara>Dae Hyun Choi, M.S.; Performance Analysis Using Sequential Detection in a Serial Multi-Hop Wireless Sensor Network; August 2008</simpara>
+					<simpara><ulink url="http://www.linkedin.com/pub/daehyun-choi/26/373/b98">Dae Hyun Choi</ulink>, M.S.; <ulink url="http://hdl.handle.net/1969.1/ETD-TAMU-2008-08-31">Performance Analysis Using Sequential Detection in a Serial Multi-Hop Wireless Sensor Network</ulink>; August 2008</simpara>
 				</listitem>
 				<listitem>
-					<simpara>Omar Ahmed Ali, M.S.; Delay-Sensitive Communication over Wireless Multihop Channels; May 2008</simpara>
+					<simpara><ulink url="http://in.linkedin.com/pub/omar-ali/3/a81/144">Omar Ahmed Ali</ulink>, M.S.; <ulink url="http://hdl.handle.net/1969.1/ETD-TAMU-2715">Delay-Sensitive Communication over Wireless Multihop Channels</ulink>; May 2008</simpara>
 				</listitem>
 				<listitem>
-					<simpara>Nirmal Kumar Gunaseelan, M.S.; Quality of Service Analysis for Hybrid-ARQ; May 2008</simpara>
+					<simpara><ulink url="http://www.linkedin.com/pub/nirmal-gunaseelan/8/189/73b">Nirmal Kumar Gunaseelan</ulink>, M.S.; <ulink url="http://hdl.handle.net/1969.1/ETD-TAMU-2720">Quality of Service Analysis for Hybrid-ARQ</ulink>; May 2008</simpara>
+				</listitem>
+			</itemizedlist>
+			<itemizedlist>
+				<listitem>
+					<simpara><ulink url="http://www.linkedin.com/pub/travis-taghavi/99/515/780">Travis Taghavi</ulink>, B.S.; May 2014</simpara>
+				</listitem>
+				<listitem>
+					<simpara><ulink url="http://www.linkedin.com/pub/alexander-ivanov/45/1a1/119">Alexander Ivanov</ulink>, B.S.; May 2012</simpara>
+				</listitem>
+				<listitem>
+					<simpara><ulink url="http://www.linkedin.com/pub/alex-raducanu/63/7ab/462">Alexandru Raducanu</ulink>, B.S.; May 2012</simpara>
+				</listitem>
+				<listitem>
+					<simpara><ulink url="http://www.linkedin.com/pub/edwin-juárez-rosales/49/644/480">Edwin Juarez Rosales</ulink>, B.S.; May 2011</simpara>
 				</listitem>
 			</itemizedlist>
 		</sect2>
@@ -184,9 +183,7 @@
 				At Texas A&amp;M University, the progress of a graduate student is guided and evaluated by an adviser and a graduate committee.
 				Members of the graduate committee are expected to give directions and support for the appropriate developmental and learning goals of the student.
 				The members of the graduate committee also have the obligation of evaluating a graduate student's academic performance.
-				This is clearly explained in the information provided by the
-				<ulink url="http://ogs.tamu.edu/">Office of Graduate Studies</ulink>
-				.
+				This is clearly explained in the information provided by the <ulink url="http://ogs.tamu.edu/">Office of Graduate Studies</ulink>.
 			</para>
 			<para>
 				The significance of the graduate experience of a particular student is partly determined by the quality, scope, and extent of the interaction with his or her committee members.
@@ -335,11 +332,7 @@
 				A straightforward use of existing computation concepts, models, and methods may not work for the problems at hand.
 				For cancer treatment, the a priori identification of good gene candidates, relevant pathways, and prospective drugs are examples of where the integration of biological knowledge with engineering insight can lead to innovations in computational thinking.
 				Without a genuine collaboration between biochemists and engineers, this project would not be possible.
-				This research initiative is joint work with the
-				<ulink url="http://gsp.tamu.edu/">Genomic Signal Processing Laboratory</ulink>
-				at Texas A&amp;M University and the
-				<ulink url="http://www.tgen.org/">Translational Genomics Research Institute (TGen)</ulink>
-				.
+				This research initiative is joint work with the <ulink url="http://gsp.tamu.edu/">Genomic Signal Processing Laboratory</ulink> at Texas A&amp;M University and the <ulink url="http://www.tgen.org/">Translational Genomics Research Institute (TGen)</ulink>.
 			</para>
 		</sect2>
 		<sect2>
@@ -357,144 +350,174 @@
 	
 	<sect1 id="Publications">
 		<title id="Publications.title">Academic Publications</title>
+		<!--
 		<para>
 			&copy; IEEE.
 			Personal use of this material is permitted.
 			However, permission to reprint/republish this material for advertising or promotional purposes or for creating new collective works for resale or redistribution to servers or lists, or to reuse any copyrighted component of this work in other works must be obtained from the IEEE.
 		</para>
+		-->
 		<sect2>
 			<title>Journal Articles</title>
 			<orderedlist>
 				<listitem>
 					<simpara>
+						L. Liu, Y. Yi, J.-F. Chamberland, and J. Zhang.
+						<ulink url="http://dx.doi.org/10.1109/TVT.2014.2313864">Energy-efficient power allocation for delay-sensitive multimedia traffic over wireless systems.</ulink>
+						IEEE Transactions on Vehicular Technology, 63(5):2038-2047, June 2014.
+					</simpara>
+				</listitem>
+				<listitem>
+					<simpara>
+						S. Kumar, J.-F. Chamberland, and G. H. Huff.
+						<ulink url="http://dx.doi.org/10.1109/TCOMM.2014.020514.130592">Reconfigurable antennas, preemptive switching and virtual channel management.</ulink>
+						IEEE Transactions on Communications, 62(4):1272-1282, April 2014.
+					</simpara>
+				</listitem>
+				<listitem>
+					<simpara>
+						G. H. Huff, J.-F. Chamberland, and J. S. Jensen.
+						<ulink url="http://dx.doi.org/10.1109/TAP.2013.2267201">Cognitive motion-dynamic tethering of a phased array to an Android smartphone.</ulink>
+						IEEE Transactions on Antennas and Propagation, 62(3):1093-1101, March 2014.
+					</simpara>
+				</listitem>
+				<listitem>
+					<simpara>
+						S. Kumar, J.-F. Chamberland, and H. D. Pfister.
+						<ulink url="http://dx.doi.org/10.1109/TIT.2013.2260593">First-passage time and large-deviation analysis for erasure channels with memory.</ulink>
+						IEEE Transactions on Information Theory, 59(9):5547-5565, September 2013.
+					</simpara>
+				</listitem>
+				<listitem>
+					<simpara>
 						P. Parag, J.-F. Chamberland, H. D. Pfister, and K. R. Narayanan.
-						Code-rate selection, queueing behavior and the correlated erasure channel.
-						IEEE Transactions on Information Theory, 59(1):397– 407, January 2013.
+						<ulink url="http://dx.doi.org/10.1109/TIT.2012.2216501">Code-rate selection, queueing behavior and the correlated erasure channel.</ulink>
+						IEEE Transactions on Information Theory, 59(1):397-407, January 2013.
 					</simpara>
 				</listitem>
 				<listitem>
 					<simpara>
 						P. Parag, S. Sah, S. Shakkottai, and J.-F. Chamberland.
-						Value-aware resource allocation for service guarantees in networks.
+						<ulink url="http://dx.doi.org/10.1109/JSAC.2011.110506">Value-aware resource allocation for service guarantees in networks.</ulink>
 						IEEE Journal on Selected Areas in Communications, 29(5):960–968, May 2011.
 					</simpara>
 				</listitem>
 				<listitem>
 					<simpara>
 						N. Gunaseelan, L. Liu, J.-F. Chamberland, and G. H. Huff.
-						Performance analysis of wireless hybrid-ARQ systems with delay-sensitive traffic.
+						<ulink url="http://dx.doi.org/10.1109/TCOMM.2010.04.090104">Performance analysis of wireless hybrid-ARQ systems with delay-sensitive traffic.</ulink>
 						IEEE Transactions on Communications, 58(4):1262–1272, April 2010.
 					</simpara>
 				</listitem>
 				<listitem>
 					<simpara>
 						P. Parag and J.-F. Chamberland.
-						Queueing analysis of a butterfly network for comparing network coding to classical routing.
+						<ulink url="http://dx.doi.org/10.1109/TIT.2010.2040862">Queueing analysis of a butterfly network for comparing network coding to classical routing.</ulink>
 						IEEE Transactions on Information Theory, 56(4):1890–1889, April 2010.
 					</simpara>
 				</listitem>
 				<listitem>
 					<simpara>
 						G. Vahedi, B. Faryabi, J.-F. Chamberland, A. Datta, and E. R. Dougherty.
-						Sampling-rate-dependent probabilistic Boolean networks.
+						<ulink url="http://dx.doi.org/10.1016/j.jtbi.2009.08.026">Sampling-rate-dependent probabilistic Boolean networks.</ulink>
 						Journal of Theoretical Biology, 261(4):540–547, December 2009.
 					</simpara>
 				</listitem>
 				<listitem>
 					<simpara>
 						B. Faryabi, G. Vahedi, A. Datta, J.-F. Chamberland, and E. R. Dougherty.
-						Recent advances in intervention in Markovian regulatory networks.
+						<ulink url="http://dx.doi.org/10.2174/138920209789208246">Recent advances in intervention in Markovian regulatory networks.</ulink>
 						Current Genomics, 10(7):463–477, November 2009.
 					</simpara>
 				</listitem>
 				<listitem>
 					<simpara>
 						B. Faryabi, G. Vahedi, J.-F. Chamberland, A. Datta, and E. R. Dougherty.
-						Intervention in context-sensitive probabilistic boolean networks revisited.
+						<ulink url="http://dx.doi.org/10.1155/2009/360864">Intervention in context-sensitive probabilistic boolean networks revisited.</ulink>
 						EURASIP Journal on Bioinformatics and Systems Biology, 2009(360864), 2009.
 					</simpara>
 				</listitem>
 				<listitem>
 					<simpara>
 						G. Vahedi, B. Faryabi, J.-F. Chamberland, A. Datta, and E. R. Dougherty.
-						Optimal intervention strategies for cyclic therapeutical methods.
+						<ulink url="http://dx.doi.org/10.1109/TBME.2008.2003092">Optimal intervention strategies for cyclic therapeutic methods.</ulink>
 						IEEE Transactions on Biomedical Engineering, 56(2):281–291, February 2009.
 					</simpara>
 				</listitem>
 				<listitem>
 					<simpara>
 						B. Faryabi, J.-F. Chamberland, G. Vahedi, A. Datta, and E. R. Dougherty.
-						Optimal intervention in asynchronous genetic regulatory networks.
+						<ulink url="http://dx.doi.org/10.1109/JSTSP.2008.923853">Optimal intervention in asynchronous genetic regulatory networks.</ulink>
 						IEEE Journal of Selected Topics in Signal Processing, 2(3):412–423, June 2008.
 					</simpara>
 				</listitem>
 				<listitem>
 					<simpara>
 						G. Vahedi, B. Faryabi, J.-F. Chamberland, A. Datta, and E. R. Dougherty.
-						Intervention in gene regulatory networks via a stationary mean-first-passage-time control policy.
+						<ulink url="http://dx.doi.org/10.1109/TBME.2008.925677">Intervention in gene regulatory networks via a stationary mean-first-passage-time control policy.</ulink>
 						IEEE Transactions on Biomedical Engineering, 55(10):2319–2331, October 2008.
 					</simpara>
 				</listitem>
 				<listitem>
 					<simpara>
 						L. Liu, J.-F. Chamberland, and S. L. Miller.
-						User cooperation in the absence of phase information at the transmitters.
+						<ulink url="http://dx.doi.org/10.1109/TIT.2007.915711">User cooperation in the absence of phase information at the transmitters.</ulink>
 						IEEE Transactions on Information Theory, 54(3):1197–1206, March 2008.
 					</simpara>
 				</listitem>
 				<listitem>
 					<simpara>
 						B. Faryabi, G. Vahedi, J.-F. Chamberland, A. Datta, and E. R. Dougherty.
-						Optimal constrained stationary intervention in gene regulatory networks.
+						<ulink url="http://dx.doi.org/10.1155/2008/620767">Optimal constrained stationary intervention in gene regulatory networks.</ulink>
 						EURASIP Journal on Bioinformatics and Systems Biology, 2008(620767), 2008.
 					</simpara>
 				</listitem>
 				<listitem>
 					<simpara>
 						L. Liu, P. Parag, and J.-F. Chamberland.
-						Quality of service analysis for wireless user-cooperation networks.
+						<ulink url="http://dx.doi.org/10.1109/TIT.2007.903149">Quality of service analysis for wireless user-cooperation networks.</ulink>
 						IEEE Transactions on Information Theory, 53(10):3833–3842, October 2007.
 					</simpara>
 				</listitem>
 				<listitem>
 					<simpara>
 						L. Liu, P. Parag, J. Tang, W.-Y. Chen, and J.-F. Chamberland.
-						Resource allocation and quality of service evaluation for wireless communication systems using fluid models.
+						<ulink url="http://dx.doi.org/10.1109/TIT.2006.894682">Resource allocation and quality of service evaluation for wireless communication systems using fluid models.</ulink>
 						IEEE Transactions on Information Theory, 53(5):1767–1777, May 2007.
 					</simpara>
 				</listitem>
 				<listitem>
 					<simpara>
 						J.-F. Chamberland and V. V. Veeravalli.
-						Wireless sensors in distributed detection applications.
+						<ulink url="http://dx.doi.org/10.1109/MSP.2007.361598">Wireless sensors in distributed detection applications.</ulink>
 						IEEE Signal Processing Magazine, 24(3):16–25, May 2007.
 					</simpara>
 				</listitem>
 				<listitem>
 					<simpara>
 						J.-F. Chamberland and V. V. Veeravalli.
-						How dense should a sensor network be for detection with correlated observations?
+						<ulink url="http://dx.doi.org/10.1109/TIT.2006.883551">How dense should a sensor network be for detection with correlated observations?</ulink>
 						IEEE Transactions on Information Theory, 52(11):5099–5106, November 2006.
 					</simpara>
 				</listitem>
 				<listitem>
 					<simpara>
 						J.-F. Chamberland and V. V. Veeravalli.
-						Asymptotic results for decentralized detection in power constrained wireless sensor networks.
+						<ulink url="http://dx.doi.org/10.1109/JSAC.2004.830894">Asymptotic results for decentralized detection in power constrained wireless sensor networks.</ulink>
 						IEEE Journal on Selected Areas in Communications, 22(6):1007–1015, August 2004.
 					</simpara>
 				</listitem>
 				<listitem>
 					<simpara>
 						J.-F. Chamberland and V. V. Veeravalli.
-						Decentralized dynamic power control for cellular CDMA systems.
+						<ulink url="http://dx.doi.org/10.1109/TWC.2003.811186">Decentralized dynamic power control for cellular CDMA systems.</ulink>
 						IEEE Transactions on Wireless Communications, 2(3):549–559, May 2003.
 					</simpara>
 				</listitem>
 				<listitem>
 					<simpara>
 						J.-F. Chamberland and V. V. Veeravalli.
-						Decentralized detection in sensor networks.
+						<ulink url="http://dx.doi.org/10.1109/TSP.2002.806982">Decentralized detection in sensor networks.</ulink>
 						IEEE Transactions on Signal Processing, 51(2):407–416, February 2003.
 					</simpara>
 				</listitem>
@@ -505,9 +528,58 @@
 			<orderedlist>
 				<listitem>
 					<simpara>
-						Z. Xia, G. H. Huff, and J.-F. Chamberland.
-						Comparison of sparse planar arrays with random and periodic element configurations.
-						In European Conference on Antennas and Propagation, Gothenburg, Sweden, April 2013. European Association on Antennas and Propagation.
+						D. Tunon, J.-F. Chamberland, and G. H. Huff.
+						<ulink url="http://dx.doi.org/10.1109/ICCNC.2014.6785349">Adding dimensions to wireless systems with orientation-aware devices and reconfigurable antennas.</ulink>
+						In International Conference on Computing, Networking and Communications, Honolulu, HI, February 2014. IEEE.
+					</simpara>
+				</listitem>
+				<listitem>
+					<simpara>
+						T. Taghavi, J.-F. Chamberland, and G. H. Huff.
+						Antenna design for graph inference: Striking a balance between quality and quantity.
+						In National Radio Science Meeting, Boulder, CO, January 2014. USNC-URSI &amp; The National Academies.
+					</simpara>
+				</listitem>
+				<listitem>
+					<simpara>
+						D. Tunon, T. Taghavi, J.-F. Chamberland, and G. H. Huff.
+						On the design and analysis of antenna patterns for localization with smart devices.
+						In National Radio Science Meeting, Boulder, CO, January 2014. USNC-URSI &amp; The National Academies.
+					</simpara>
+				</listitem>
+				<listitem>
+					<simpara>
+						E. Foster, R. Haley, Q. Manley, R. Moore, J. D. Barrera, J.-F. Chamberland, and G. H. Huff.
+						Using polarization reconfigurable antennas in a smartphone-enabled direction of arrival system.
+						In National Radio Science Meeting, Boulder, CO, January 2014. USNC-URSI &amp; The National Academies.
+					</simpara>
+				</listitem>
+				<listitem>
+					<simpara>
+						D. Tunon, J.-F. Chamberland, and G. H. Huff.
+						<ulink url="http://dx.doi.org/10.1109/GlobalSIP.2013.6736829">Localization of a single source with orientation-aware smart devices.</ulink>
+						In Global Conference on Signal and Information Processing, Austin, TX, December 2013. IEEE.
+					</simpara>
+				</listitem>
+				<listitem>
+					<simpara>
+						H. El-Sallabi, M. Abdallah, J.-F. Chamberland, and K. Qaraqe.
+						<ulink url="http://dx.doi.org/10.1109/ACSSC.2013.6810426">On the Effect of Reconfigurable Antenna Radiation Patterns on Outdoor Channel Characteristics.</ulink>
+						In Asilomar Conference on Signals, Systems, and Computers, Pacific Grove, CA, November 2013. IEEE.
+					</simpara>
+				</listitem>
+                <listitem>
+                    <simpara>
+                        R. Moore, Q. Manley, E. Foster, R. Haley, Z. Xia, J.-F. Chamberland, and G. H. Huff.
+                        <ulink url="http://dx.doi.org/10.1109/USNC-URSI.2013.6715487">An Android-controlled direction of arrival system using polarization-reconfigurable antennas.</ulink>
+                        In International Symposium on Antennas and Propagation and USNC-URSI National Radio Sci- ence Meeting, Orlando, FL, July 2013. USNC-URSI &amp; IEEE.
+                    </simpara>
+                </listitem>
+				<listitem>
+					<simpara>
+						Z. Xia, N. Brennan, G. H. Huff, and J.-F. Chamberland.
+						<ulink url="http://dx.doi.org/10.1109/RWS.2013.6486642">Real-time and near-real-time acquisi- tion systems for measuring aliasing in small arrays based on crystal microstructures.</ulink>
+						In Radio and Wireless Symposium, Austin, Texas, January 2013. IEEE.
 					</simpara>
 				</listitem>
 				<listitem>
@@ -520,7 +592,7 @@
 				<listitem>
 					<simpara>
 						F. Hamidi-Sepehr, J.-F. Chamberland, and H. D. Pfister.
-						On the performance of random block codes over finite-state fading channels.
+						<ulink url="http://dx.doi.org/10.1109/Allerton.2012.6483194">On the performance of random block codes over finite-state fading channels.</ulink>
 						In Allerton Conference on Communication, Control, and Computing, Monticello, IL, October 2012. IEEE.
 					</simpara>
 				</listitem>
@@ -541,21 +613,21 @@
 				<listitem>
 					<simpara>
 						P. Parag, S. Kumar, J.-F. Chamberland, and G. H. Huff.
-						Detecting the presence of a proximate cellular user through distributed femtocell sensing.
+						<ulink url="http://dx.doi.org/10.1109/SAM.2012.6250462">Detecting the presence of a proximate cellular user through distributed femtocell sensing.</ulink>
 						In Sensor Array and Multichannel Signal Processing Workshop, Hoboken, NJ, June 2012. IEEE.
 					</simpara>
 				</listitem>
 				<listitem>
 					<simpara>
 						Z. Xia, G. H. Huff, J.-F. Chamberland, H. D. Pfister, and R. Bhattacharya.
-						Direction of arrival estimation using canonical and crystallographic volumetric element configurations.
+						<ulink url="http://dx.doi.org/10.1109/EuCAP.2012.6206123">Direction of arrival estimation using canonical and crystallographic volumetric element configurations.</ulink>
 						In European Conference on Antennas and Propagation, pages 1436–1439, Prague, Czech Republic, March 2012. IEEE.
 					</simpara>
 				</listitem>
 				<listitem>
 					<simpara>
 						F. Hamidi-Sepehr, H. D. Pfister, and J.-F. Chamberland.
-						On the queueing behavior of Gilbert-Elliott channels in the rare-transition regime.
+						<ulink url="http://dx.doi.org/10.1109/CISS.2012.6310913">On the queueing behavior of Gilbert-Elliott channels in the rare-transition regime.</ulink>
 						In Conference on Information Sciences and Systems, Princeton, NJ, March 2012.
 					</simpara>
 				</listitem>
@@ -569,126 +641,126 @@
 				<listitem>
 					<simpara>
 						S. Kumar, H. D. Pfister, and J.-F. Chamberland.
-						Large deviations on empirical service for erasure channels with memory.
+						<ulink url="http://dx.doi.org/10.1109/Allerton.2011.6120365">Large deviations on empirical service for erasure channels with memory.</ulink>
 						In Allerton Conference on Communication, Control, and Computing, Monticello, IL, September 2011. IEEE.
 					</simpara>
 				</listitem>
 				<listitem>
 					<simpara>
 						F. Hamidi-Sepehr, Y. Cai, H. D. Pfister, and J.-F. Chamberland.
-						Queueing behavior of the Gilbert-Elliott channel: BCH codes and Poisson arrivals.
+						<ulink url="http://dx.doi.org/10.1109/ISIT.2011.6033861">Queueing behavior of the Gilbert-Elliott channel: BCH codes and Poisson arrivals.</ulink>
 						In International Symposium on Information Theory, Saint Petersburg, Russia, August 2011. IEEE.
 					</simpara>
 				</listitem>
 				<listitem>
 					<simpara>
 						P. Parag and J.-F. Chamberland.
-						Exploiting an interplay between norms to analyze scalar quantization schemes.
+						<ulink url="http://dx.doi.org/10.1109/ICASSP.2011.5947285">Exploiting an interplay between norms to analyze scalar quantization schemes.</ulink>
 						In International Conference on Acoustics, Speech, and Signal Processing, Prague, Czech Republic, May 2011. IEEE.
 					</simpara>
 				</listitem>
 				<listitem>
 					<simpara>
 						J.-F. Chamberland, H. D. Pfister, and S. Shakkottai.
-						First-passage time analysis for digital communication over erasure channels with delay-sensitive traffic.
+						<ulink url="http://dx.doi.org/10.1109/ALLERTON.2010.5706934">First-passage time analysis for digital communication over erasure channels with delay-sensitive traffic.</ulink>
 						In Allerton Conference on Communication, Control, and Computing, Monticello, IL, September 2010. IEEE.
 					</simpara>
 				</listitem>
 				<listitem>
 					<simpara>
 						P. Parag, J.-F. Chamberland, H. D. Pfister, and K. R. Narayanan.
-						On the queueing behavior of random codes over a Gilbert-Elliott erasure channel.
+						<ulink url="http://dx.doi.org/10.1109/ISIT.2010.5513296">On the queueing behavior of random codes over a Gilbert-Elliott erasure channel.</ulink>
 						In International Symposium on Information Theory, Austin, TX, June 2010. IEEE.
 					</simpara>
 				</listitem>
 				<listitem>
 					<simpara>
 						P. Parag, S. Shakkottai, and J.-F. Chamberland.
-						Value-aware resource allocation for service guarantees in networks.
+						<ulink url="http://dx.doi.org/10.1109/INFCOM.2010.5462104">Value-aware resource allocation for service guarantees in networks.</ulink>
 						In Conference on Computer Communications, San Diego, CA, March 2010. IEEE.
 					</simpara>
 				</listitem>
 				<listitem>
 					<simpara>
 						P. Parag, J.-F. Chamberland, H. D. Pfister, and K. R. Narayanan.
-						Code rate, queueing behavior and the correlated erasure channel.
+						<ulink url="http://dx.doi.org/10.1109/ITWKSPS.2010.5503186">Code rate, queueing behavior and the correlated erasure channel.</ulink>
 						In Information Theory Workshop on Information Theory, Cairo, Egypt, January 2010. IEEE.
 					</simpara>
 				</listitem>
 				<listitem>
 					<simpara>
 						B. Faryabi, G. Vahedi, J.-F. Chamberland, A. Datta, and E. R. Dougherty.
-						Open-loop feedback intervention: Control of gene regulatory networks with unmeasurable context.
+						<ulink url="http://dx.doi.org/10.1109/GENSIPS.2009.5174326">Open-loop feedback intervention: Control of gene regulatory networks with unmeasurable context.</ulink>
 						In International Workshop on Genomic Signal Processing and Statistics, Minneapolis, MN, May 2009. IEEE.
 					</simpara>
 				</listitem>
 				<listitem>
 					<simpara>
 						P. Parag and J.-F. Chamberland.
-						Queueing analysis of a butterfly network.
+						<ulink url="http://dx.doi.org/10.1109/ISIT.2008.4595071">Queueing analysis of a butterfly network.</ulink>
 						In International Symposium on Information Theory, Toronto, Canada, July 2008. IEEE.
 					</simpara>
 				</listitem>
 				<listitem>
 					<simpara>
 						L. Liu and J.-F. Chamberland.
-						On the effective capacities of multi-antenna Gaussian channels.
+						<ulink url="http://dx.doi.org/10.1109/ISIT.2008.4595458">On the effective capacities of multi-antenna Gaussian channels.</ulink>
 						In International Symposium on Information Theory, Toronto, Canada, July 2008. IEEE.
 					</simpara>
 				</listitem>
 				<listitem>
 					<simpara>
 						G. Vahedi, B. Faryabi, J.-F. Chamberland, A. Datta, and E. R. Dougherty.
-						Modeling cyclic therapy in gene regulatory networks.
+						<ulink url="http://dx.doi.org/10.1109/GENSIPS.2008.4555670">Modeling cyclic therapy in gene regulatory networks.</ulink>
 						In International Workshop on Genomic Signal Processing and Statistics, Phoenix, AZ, June 2008. IEEE.
 					</simpara>
 				</listitem>
 				<listitem>
 					<simpara>
 						B. Faryabi, G. Vahedi, J.-F. Chamberland, A. Datta, and E. R. Dougherty.
-						Constrained intervention in a cancerous mammalian cell cycle network.
+						<ulink url="http://dx.doi.org/10.1109/GENSIPS.2008.4555669">Constrained intervention in a cancerous mammalian cell cycle network.</ulink>
 						In International Workshop on Genomic Signal Processing and Statistics, Phoenix, AZ, June 2008. IEEE.
 					</simpara>
 				</listitem>
 				<listitem>
 					<simpara>
 						G. Vahedi, B. Faryabi, J.-F. Chamberland, A. Datta, and E. R. Dougherty.
-						Mean first-passage time control policy versus reinforcement-learning control policy in gene regulatory networks.
+						<ulink url="http://dx.doi.org/10.1109/ACC.2008.4586687">Mean first-passage time control policy versus reinforcement-learning control policy in gene regulatory networks.</ulink>
 						In American Control Conference, Seattle, WA, June 2008. IEEE.
 					</simpara>
 				</listitem>
 				<listitem>
 					<simpara>
 						B. Faryabi, J.-F. Chamberland, G. Vahedi, A. Datta, and E. R. Dougherty.
-						Optimal intervention in semi-Markov-based asynchronous genetic regulatory networks.
+						<ulink url="http://dx.doi.org/10.1109/ACC.2008.4586686">Optimal intervention in semi-Markov-based asynchronous genetic regulatory networks.</ulink>
 						In American Control Conference, Seattle, WA, June 2008. IEEE.
 					</simpara>
 				</listitem>
 				<listitem>
 					<simpara>
 						L. Liu, J.-F. Chamberland, and K. Qaraqe.
-						Enabling delay-sensitive applications over sensor networks using a two-tier architecture and multi-antenna cluster heads.
+						<ulink url="http://dx.doi.org/10.1109/CAMSAP.2007.4498025">Enabling delay-sensitive applications over sensor networks using a two-tier architecture and multi-antenna cluster heads.</ulink>
 						In International Workshop on Computational Advances in Multi-Sensor Adaptive Processing, St. Thomas, Virgin Islands, December 2007. IEEE.
 					</simpara>
 				</listitem>
 				<listitem>
 					<simpara>
 						Y. M. Ko, J.-F. Chamberland, and N. Gautam.
-						Optimal policies for control of peers in online multimedia services.
+						<ulink url="http://dx.doi.org/10.1109/CDC.2007.4434737">Optimal policies for control of peers in online multimedia services.</ulink>
 						In Conference on Decision and Control, New Orleans, LA, December 2007. IEEE.
 					</simpara>
 				</listitem>
 				<listitem>
 					<simpara>
 						A. Balasubramanian, L. Liu, S. L. Miller, and J.-F. Chamberland.
-						The rate region of a cooperative scheduling system.
+						<ulink url="http://dx.doi.org/10.1109/CISS.2007.4298374">The rate region of a cooperative scheduling system.</ulink>
 						In Conference on Information Sciences and Systems, Baltimore, MD, March 2007.
 					</simpara>
 				</listitem>
 				<listitem>
 					<simpara>
 						L. Liu and J.-F. Chamberland.
-						Cross-layer optimization and information assurance in decentralized detection over wireless sensor networks.
+						<ulink url="http://dx.doi.org/10.1109/ACSSC.2006.356630">Cross-layer optimization and information assurance in decentralized detection over wireless sensor networks.</ulink>
 						In Asilomar Conference on Signals, Systems and Computers, Monterey, CA, October 2006. IEEE.
 					</simpara>
 				</listitem>
@@ -702,7 +774,7 @@
 				<listitem>
 					<simpara>
 						J.-F. Chamberland.
-						A first look at the hidden cost of random node placement in wireless sensor networks.
+						<ulink url="http://dx.doi.org/10.1109/SSP.2005.1628771">A first look at the hidden cost of random node placement in wireless sensor networks.</ulink>
 						In Workshop on Statistical Signal Processing, Bordeaux, France, July 2005. IEEE.
 					</simpara>
 				</listitem>
@@ -716,14 +788,14 @@
 				<listitem>
 					<simpara>
 						J.-F. Chamberland and V. V. Veeravalli.
-						How dense should a sensor network be for detection applications.
+						<ulink url="http://dx.doi.org/10.1109/ICASSP.2005.1416487">How dense should a sensor network be for detection applications.</ulink>
 						In International Conference on Acoustics, Speech, and Signal Processing, Philadelphia, PA, March 2005. IEEE.
 					</simpara>
 				</listitem>
 				<listitem>
 					<simpara>
 						J.-F. Chamberland and V. V. Veeravalli.
-						Design of sensor networks for detection applications via large deviation theory.
+						<ulink url="http://dx.doi.org/10.1109/ITW.2004.1405291">Design of sensor networks for detection applications via large deviation theory.</ulink>
 						In Information Theory Workshop, San Antonio, TX, October 2004. IEEE.
 					</simpara>
 				</listitem>
@@ -737,28 +809,28 @@
 				<listitem>
 					<simpara>
 						J.-F. Chamberland and V. V. Veeravalli.
-						Adaptive signaling schemes for detection in wireless sensor networks.
+						<ulink url="http://dx.doi.org/10.1109/ISIT.2004.1365286">Adaptive signaling schemes for detection in wireless sensor networks.</ulink>
 						In International Symposium on Information Theory, Chicago, IL, June 2004. IEEE.
 					</simpara>
 				</listitem>
 				<listitem>
 					<simpara>
 						J.-F. Chamberland and V. V. Veeravalli.
-						The impact of fading on decentralized detection in power constrained wireless sensor networks.
+						<ulink url="http://dx.doi.org/10.1109/ICASSP.2004.1326675">The impact of fading on decentralized detection in power constrained wireless sensor networks.</ulink>
 						In International Conference on Acoustics, Speech, and Signal Processing, Montreal, Canada, May 2004. IEEE.
 					</simpara>
 				</listitem>
 				<listitem>
 					<simpara>
 						J.-F. Chamberland and V. V. Veeravalli.
-						The art of sleeping in wireless sensing systems.
+						<ulink url="http://dx.doi.org/10.1109/SSP.2003.1289328">The art of sleeping in wireless sensing systems.</ulink>
 						In Workshop on Statistical Signal Processing, St. Louis, MO, September 2003. IEEE.
 					</simpara>
 				</listitem>
 				<listitem>
 					<simpara>
 						J.-F. Chamberland and V. V. Veeravalli.
-						Asymptotic results for detection in power constrained wireless sensor networks.
+						<ulink url="http://dx.doi.org/10.1109/ISIT.2003.1228244">Asymptotic results for detection in power constrained wireless sensor networks.</ulink>
 						In International Symposium on Information Theory, Yokohama, Japan, June 2003. IEEE.
 					</simpara>
 				</listitem>
@@ -779,7 +851,7 @@
 				<listitem>
 					<simpara>
 						J.-F. Chamberland and V. V. Veeravalli.
-						Optimal dynamic power control for CDMA systems.
+						<ulink url="http://dx.doi.org/10.1109/ISIT.2000.866766">Optimal dynamic power control for CDMA systems.</ulink>
 						In International Symposium on Information Theory, Sorrento, Italy, June 2000. IEEE.
 					</simpara>
 				</listitem>

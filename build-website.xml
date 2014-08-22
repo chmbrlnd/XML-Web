@@ -6,7 +6,7 @@
     </description>
 
 	<!-- Configure basic properties -->
-	<property name="docbook.xsl.dir" value="docbook-xsl" />
+	<property name="docbook.xsl.dir" value="docbook-xsl-1.78.1" />
 	<property name="htmloutput" value="output" />
 	<property name="xmlsource" value="source" />
 	<property name="resources" value="resources" />
@@ -40,7 +40,7 @@
 	<target name="build" depends="depends" description="Generates HTML files from DocBook XML">
 		<xslt style="${html.stylesheet}" extension=".html" basedir="${xmlsource}" destdir="${htmloutput}">
 			<include name="content.xml" />
-			<param name="root.filename" expression="Site" />
+			<param name="root.filename" expression="index" />
 			<param name="generate.toc" expression="book toc" />
 			<param name="toc.max.depth" expression="3" />
 			<param name="chunk.section.depth" expression="1" />
