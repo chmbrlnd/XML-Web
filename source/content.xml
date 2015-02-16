@@ -28,16 +28,15 @@
 	<sect1 id="index">
 		<title>Welcome!</title>
 		<para>
-			I am an Associate Professor in the Department of Electrical and Computer Engineering at <ulink url="http://www.tamu.edu/">Texas A&amp;M University</ulink>.
-			I was born and raised in Quebec City, Canada.
-			I completed a Bachelor of Engineering degree at <ulink url="http://www.mcgill.ca">McGill University</ulink> and a Master of Science degree at <ulink url="http://www.cornell.edu/">Cornell University</ulink>.
-			I received a Doctor of Philosophy degree from the <ulink url="http://www.illinois.edu">University of Illinois</ulink> at Urbana-Champaign in Electrical Engineering.
+			Dr. J.-F. Chamberland is an Associate Professor in the Department of Electrical and Computer Engineering at <ulink url="http://www.tamu.edu/">Texas A&amp;M University</ulink>.
+			He was born and raised in Quebec City, Canada.
+			He completed a Bachelor of Engineering degree at <ulink url="http://www.mcgill.ca">McGill University</ulink> and a Master of Science degree at <ulink url="http://www.cornell.edu/">Cornell University</ulink>.
+			He received a Doctor of Philosophy degree from the <ulink url="http://www.illinois.edu">University of Illinois</ulink> at Urbana-Champaign in Electrical Engineering.
 		</para>
 		<para>
-			My research interests are in the areas of communication and information theory, decision and control, computer systems and networks, statistical inference, learning, and applied probability.
-			Recently, I have been studying the efficient design of sensor networks from a system-theoretic perspective and the fundamental limits of wireless communication systems under stringent delay constraints.
-			My academic work has appeared in a variety of outlets, including the IEEE Transactions on
-			Information Theory, the IEEE Transactions on Signal Processing, the IEEE Journal of Selected Areas in Communications, and the IEEE Transactions on Wireless Communications.
+			His research interests are in the areas of communication and information theory, decision and control, computer systems and networks, statistical inference, learning, and applied probability.
+			Recently, he has been studying the efficient design of sensor networks from a system-theoretic perspective and the fundamental limits of wireless communication systems under stringent delay constraints.
+			His academic work has appeared in a variety of outlets, including the IEEE Transactions on Information Theory, the IEEE Transactions on Signal Processing, the IEEE Journal of Selected Areas in Communications, and the IEEE Transactions on Wireless Communications.
 		</para>
 		<sect2>
 			<title>Pertinent Links</title>
@@ -62,7 +61,7 @@
 		<sect2>
 			<title>Contact Information</title>
 			<para>
-				My office is located in the Wisenbaker Engineering Research Center (WERC).
+				His office is located in the Wisenbaker Engineering Research Center (WERC).
 				The <ulink url="http://aggiemap.tamu.edu/?Bldg=0682">Interactive Campus Map</ulink> for Texas A&amp;M University shows where buildings are located in regard to a map.
 			</para>
 			<itemizedlist>
@@ -109,16 +108,20 @@
 				<listitem>
 					<simpara><ulink url="http://www.linkedin.com/pub/alex-raducanu/63/7ab/462">Alexandru Raducanu</ulink></simpara>
 				</listitem>
+				<listitem>
+					<simpara>Pranay Kumar Eedara</simpara>
+				</listitem>	
 			</itemizedlist>
 		</sect2>
 		<sect2>
 			<title>Alumni</title>
 			<itemizedlist>
 				<listitem>
-					<simpara><ulink url="http://www.linkedin.com/pub/fatemeh-hamidi-sepehr/56/23a/a22">Fatemeh Hamidi Sepehr</ulink>, Ph.D.; Performance Analysis of Block Codes over Finite-State Channels in Delay-Sensitive Communications; May 2014</simpara>
+					<simpara><ulink url="http://www.linkedin.com/pub/fatemeh-hamidi-sepehr/56/23a/a22">Fatemeh Hamidi Sepehr</ulink>, Ph.D.; <ulink url="http://hdl.handle.net/1969.1/152477">Performance Analysis of Block Codes over Finite-State Channels in Delay-Sensitive Communications</ulink>; May 2014</simpara>
 				</listitem>
 				<listitem>
-					<simpara><ulink url="http://www.linkedin.com/pub/parimal-parag/4/a2a/6a9">Parimal Parag</ulink>, Ph.D.; <ulink url="http://hdl.handle.net/1969.1/ETD-TAMU-2011-12-10699">Delay-Sensitive Communications: Fundamental Limits, Strategies, and Distributed Control</ulink>; December 2011</simpara>
+					<simpara><ulink url="http://ece.iisc.ernet.in/~parimal">Parimal Parag</ulink>, Ph.D.; <ulink url="http://hdl.handle.net/1969.1/ETD-TAMU-2011-12-10699">Delay-Sensitive Communications: Fundamental Limits, Strategies, and Distributed Control</ulink>; December 2011</simpara>
+					<!-- <simpara><ulink url="http://www.linkedin.com/pub/parimal-parag/4/a2a/6a9">Parimal Parag</ulink>, Ph.D.; <ulink url="http://hdl.handle.net/1969.1/ETD-TAMU-2011-12-10699">Delay-Sensitive Communications: Fundamental Limits, Strategies, and Distributed Control</ulink>; December 2011</simpara> -->
 				</listitem>
 				<listitem>
 					<simpara><ulink url="http://www.linkedin.com/pub/golnaz-vahedi/4/674/5a5">Golnaz Vahedi</ulink>, Ph.D.; <ulink url="http://hdl.handle.net/1969.1/ETD-TAMU-2009-08-2941">An Engineering Approach towards Personalized Cancer Therapy</ulink>; August 2009</simpara>
@@ -132,10 +135,10 @@
 			</itemizedlist>
 			<itemizedlist>
 				<listitem>
-					<simpara><ulink url="http://pa.linkedin.com/pub/daniel-tuñón/6a/960/5a">Daniel Tunon Coronado</ulink>, M.S.; Analysis and Implementation of an Orientation-Aware Source Localization System with Smart Devices; August 2014</simpara>
+					<simpara><ulink url="http://www.linkedin.com/pub/nick-brennan/56/6a2/85b">Nicholas William Brennan</ulink>, M.S.; A Modular Networked System for Combined Fluidic, Electronic, and Thermal Control of a Multifunctional Reconfigurable Antenna Array; August 2014</simpara>
 				</listitem>
 				<listitem>
-					<simpara><ulink url="http://www.linkedin.com/pub/nick-brennan/56/6a2/85b">Nicholas William Brennan</ulink>, M.S.; A Modular Networked System for Combined Fluidic, Electronic, and Thermal Control of a Multifunctional Reconfigurable Antenna Array; August 2014</simpara>
+					<simpara><ulink url="http://pa.linkedin.com/pub/daniel-tuñón/6a/960/5a">Daniel Tunon Coronado</ulink>, M.S.; <ulink url="http://hdl.handle.net/1969.1/153255">Analysis and Implementation of an Orientation-Aware Source Localization System with Smart Devices</ulink>; August 2014</simpara>
 				</listitem>
 				<listitem>
 					<simpara><ulink url="http://www.linkedin.com/in/pankajparag">Pankaj Parag</ulink>, M.S.; <ulink url="http://hdl.handle.net/1969.1/148365">Detecting the Presence of a Proximate Cellular User through Distributed Femtocell Sensing</ulink>; December 2012</simpara>
@@ -362,6 +365,13 @@
 			<orderedlist>
 				<listitem>
 					<simpara>
+						F. Hamidi-Sepehr, H. D. Pfister, J.-F. Chamberland.
+						<ulink url="http://dx.doi.org/10.1109/TVT.2014.2365181">Delay-sensitive communication over fading channel: Queueing behavior and code parameter selection.</ulink>
+						IEEE Transactions on Vehicular Technology.
+					</simpara>
+				</listitem>
+				<listitem>
+					<simpara>
 						L. Liu, Y. Yi, J.-F. Chamberland, and J. Zhang.
 						<ulink url="http://dx.doi.org/10.1109/TVT.2014.2313864">Energy-efficient power allocation for delay-sensitive multimedia traffic over wireless systems.</ulink>
 						IEEE Transactions on Vehicular Technology, 63(5):2038-2047, June 2014.
@@ -528,6 +538,27 @@
 			<orderedlist>
 				<listitem>
 					<simpara>
+						D. Tunon, J.-F. Chamberland, and G. H. Huff.
+						Orientation-Awareness and Wireless Systems.
+						In Information Theory and Applications Workshop, La Jolla, CA, February 2015. IEEE.
+					</simpara>
+				</listitem>
+				<listitem>
+					<simpara>
+						H. El-Sallabi, M. Abdallah, J.-F. Chamberland, and K. Qaraque.
+						<ulink url="http://dx.doi.org/10.1109/ISANP.2014.7026582">A statistical model for delay domain radio channel parameter affected with extreme values.</ulink>
+						In International Symposium on Antennas and Propagation (ISAP), Kaohsiung, Taiwan, December 2014. IEEE.
+					</simpara>
+				</listitem>
+				<listitem>
+					<simpara>
+						H. El-Sallabi, M. Abdallah, J.-F. Chamberland, and K. Qaraque.
+						<ulink url="http://dx.doi.org/10.1109/ISANP.2014.7026773">Impact of reconfigurable polarization angle on parameters of a statistical distribution of coherence time of radio channel.</ulink>
+						In International Symposium on Antennas and Propagation (ISAP), Kaohsiung, Taiwan, December 2014. IEEE.
+					</simpara>
+				</listitem>
+				<listitem>
+					<simpara>
 						A. Bennett, J. McKnight, D. Rolando, J.-F. Chamberland, and G. H. Huff.
 						<ulink url="http://dx.doi.org/10.1109/APS.2014.6904532">Disturbance localization using a multifunctional antenna-buoy sensor network.</ulink>
 						In Antennas and Propagation Society International Symposium (APSURSI), Memphis, TN, July 2014. IEEE.
@@ -543,14 +574,14 @@
 				<listitem>
 					<simpara>
 						T. Taghavi, J.-F. Chamberland, and G. H. Huff.
-						Antenna design for graph inference: Striking a balance between quality and quantity.
+						<ulink url="http://dx.doi.org/10.1109/USNC-URSI-NRSM.2014.6927995">Antenna design for graph inference: Striking a balance between quality and quantity.</ulink>
 						In National Radio Science Meeting, Boulder, CO, January 2014. USNC-URSI &amp; The National Academies.
 					</simpara>
 				</listitem>
 				<listitem>
 					<simpara>
 						D. Tunon, T. Taghavi, J.-F. Chamberland, and G. H. Huff.
-						On the design and analysis of antenna patterns for localization with smart devices.
+						<ulink url="http://dx.doi.org/10.1109/USNC-URSI-NRSM.2014.6928007">On the design and analysis of antenna patterns for localization with smart devices.</ulink>
 						In National Radio Science Meeting, Boulder, CO, January 2014. USNC-URSI &amp; The National Academies.
 					</simpara>
 				</listitem>
@@ -575,13 +606,13 @@
 						In Asilomar Conference on Signals, Systems, and Computers, Pacific Grove, CA, November 2013. IEEE.
 					</simpara>
 				</listitem>
-                <listitem>
-                    <simpara>
-                        R. Moore, Q. Manley, E. Foster, R. Haley, Z. Xia, J.-F. Chamberland, and G. H. Huff.
-                        <ulink url="http://dx.doi.org/10.1109/USNC-URSI.2013.6715487">An Android-controlled direction of arrival system using polarization-reconfigurable antennas.</ulink>
-                        In International Symposium on Antennas and Propagation and USNC-URSI National Radio Science Meeting, Orlando, FL, July 2013. USNC-URSI &amp; IEEE.
-                    </simpara>
-                </listitem>
+        <listitem>
+          <simpara>
+            R. Moore, Q. Manley, E. Foster, R. Haley, Z. Xia, J.-F. Chamberland, and G. H. Huff.
+           <ulink url="http://dx.doi.org/10.1109/USNC-URSI.2013.6715487">An Android-controlled direction of arrival system using polarization-reconfigurable antennas.</ulink>
+           In International Symposium on Antennas and Propagation and USNC-URSI National Radio Science Meeting, Orlando, FL, July 2013. USNC-URSI &amp; IEEE.
+          </simpara>
+        </listitem>
 				<listitem>
 					<simpara>
 						Z. Xia, N. Brennan, G. H. Huff, and J.-F. Chamberland.
@@ -592,7 +623,7 @@
 				<listitem>
 					<simpara>
 						S. Kumar, J.-F. Chamberland, and G. H. Huff.
-						Reconfigurable antennas, preemptive switching and virtual channel management under partial observations.
+						<ulink url="http://dx.doi.org/10.1109/USNC-URSI-NRSM.2013.6525143">Reconfigurable antennas, preemptive switching and virtual channel management under partial observations.</ulink>
 						In National Radio Science Meeting, Boulder, CO, January 2013. USNC-URSI &amp; The National Academies.
 					</simpara>
 				</listitem>
@@ -870,8 +901,8 @@
 				<listitem>
 					<simpara>
 						J.-F. Chamberland and V. V. Veeravalli.
-						Wireless Sensor Networks: Signal Processing and Communications Perspectives,
-						Detection in Sensor Networks.
+						<ulink url="http://dx.doi.org/10.1002/9780470061794">Wireless Sensor Networks: Signal Processing and Communications Perspectives,</ulink>
+						<ulink url="http://dx.doi.org/10.1002/9780470061794.ch6">Detection in Sensor Networks.</ulink>
 						John Wiley &amp; Sons, December 2007.
 					</simpara>
 				</listitem>
